@@ -46,3 +46,7 @@
 * if there is a face, makes the face into a balloon, floating up
 * makes the colors pastel
 * changes the color of person's iris'
+* delete a person's eyes
+* desaturate the background behind a person
+* locate edges in an image and draw or highlight them
+* Scramble 50% or so of the pixels
